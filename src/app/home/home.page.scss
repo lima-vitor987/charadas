@@ -1,0 +1,40 @@
+.pergunta{
+    font-size: medium;
+    font-family: Verdana;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 100px;
+    background-color: white;
+}
+
+.resposta{    
+    text-align: center;
+    font-family: Verdana;
+    font-weight: 900;
+    background-color: whitesmoke;
+}
+ion-bottun{
+    align-items: center;
+}
+
+.revela{
+    margin-top: 100px;
+    margin-left: 115px;
+}
+
+.posicao{
+    margin-top: 100px;
+}
+
+
+ion-content{
+  
+    --background: url("../../assets/azul.jpg")fixed no-repeat;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    
+    
+    
+  }
